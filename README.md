@@ -1,0 +1,2 @@
+footable-plugin-template
+========================
